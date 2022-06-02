@@ -2,8 +2,7 @@
 const install = (Vue, vm) => {
 	// 此为自定义配置参数，具体参数见上方说明
 	Vue.prototype.$u.http.setConfig({
-		baseUrl: 'https://api.itbear666.top/cloudorder',
-		// baseUrl: 'http://localhost:8849/cloudorder',
+		baseUrl: 'http://localhost:8849/cloudorder',
 		loadingText: '努力加载中~', // 请求loading中的文字提示
 		// 设置为json，返回后会对数据进行一次JSON.parse()
 		dataType: 'json',
