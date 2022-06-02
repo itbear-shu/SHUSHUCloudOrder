@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : alibaba
- Source Server Type    : MySQL
- Source Server Version : 50737
- Source Host           : 47.100.249.168:3306
- Source Schema         : cloud_order
-
- Target Server Type    : MySQL
- Target Server Version : 50737
- File Encoding         : 65001
-
- Date: 02/06/2022 08:43:35
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
