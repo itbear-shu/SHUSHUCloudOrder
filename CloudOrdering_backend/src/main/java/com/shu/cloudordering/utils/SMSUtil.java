@@ -73,6 +73,5 @@ public class SMSUtil {
 
     public static void main(String[] args) {
         batchSend("123256", "19821131319");
-//        SMSUtil.singleSend("e458422b1fefc71308e8c14f293888b0", "123456", "19821131319");
     }
 }
